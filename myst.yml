@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 09dd4461-3adf-44b8-a39a-b990cc945440
+  title: Estadística
+  description: Libro de ejercicios practicos de estadística para investigadores
+  keywords:
+    - Estadística
+    - Inferencia
+  github: jnolorbe/estadistica
+  toc:
+    - file: intro.md
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
